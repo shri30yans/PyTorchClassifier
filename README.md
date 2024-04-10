@@ -14,6 +14,8 @@ This script trains a neural network model based on a provided dataset. It prepro
 1. Clone the repository:
 ```
 git clone https://github.com/shri30yans/PyTorchClassifier.git
+```
+```
 cd PyTorchClassifier
 ```
 
